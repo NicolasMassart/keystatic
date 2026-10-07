@@ -37,7 +37,7 @@
   "devDependencies": {
     "@keystatic/core": "workspace:^",
     "@types/set-cookie-parser": "^2.4.2",
-    "astro": "^5.2.5",
+    "astro": "^7.2.8",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
   },
